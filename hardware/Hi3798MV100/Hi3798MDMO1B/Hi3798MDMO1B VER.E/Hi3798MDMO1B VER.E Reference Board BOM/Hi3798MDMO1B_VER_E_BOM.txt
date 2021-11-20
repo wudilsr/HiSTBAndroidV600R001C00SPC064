@@ -1,0 +1,224 @@
+                                    Material No         Material Name @ Parameter                       Quantity                                            Location                       
+ --- ---------- ---- ----- --------- --------- --------------------------    -------  ------------   ----  ---- ----  ---------- ---- --------------------------------------  
+   1               1                 08070561   Chip Multilayer Ceramic Capacitor,10V,0.1uF+/-          30  PCS                                    C1   C34  C38  C42  C62  C101 
+                                                10%-X5R-0402                                                                                       C70  C74  C199 C105 C107 C121 
+                                                                                                                                                   C207 C208 C216 C218 C220 C222    
+                                                                                                                                                   C223 C227 C229 C231 C123 C197  
+                                                                                                                                                   C240 C258 C127 C135 C138 C124
+   2               1                 08071629   SMD Ceramic Capacitor,25V,10000nF,+/-                    5  PCS                                    C2  C4  C25  C111 C114
+                                                20%-X5R-0805                                                                                       
+   3               1                 08070962   SSMD Ceramic Capacitor,25V,1000nF,+/-                    9  PCS                                    C3  C7  C9  C10  C11  C13  C16
+                                                10%-X7R-0603                                                                                       C18  C188
+   4               1                 08070584   Chip Multilayer Ceramic Capacitor,6.3V,220nF+/-          3  PCS                                    C5  C8  C30
+                                                10%-X5R-0402-BT                                                                                    
+   5               1                 08070856   Chip Multilayer Ceramic Capacitor,10V,0.22uF,+/-         1  PCS                                    C6
+                                                10%-X7R-0603                                                                                 
+   6               1                 08070612   SMD Ceramic Capacitor,10V,1000nF,+/-                    12  PCS                                    C12  C14  C77  C94  C96  C103
+                                                10%-X5R-0402-BT,TS16949                                                                            C132 C334 C271 C289
+                                                                                                                                                   C308 C310
+   7               1                 08070649   Chip Multilayer Ceramic Capacitor,6.3V,10000nF,+/-      14  PCS                                    C15  C35  C37  C39  C40  C47
+                                                20%-X5R-0603-BT,TS16949                                                                            C90  C91  C110 C116 C257 C281
+                                                                                                                                                   C282 C320
+   8               1                 08070637   Chip Multilayer Ceramic Capacitor,50V,180pF,+/           2  PCS                                    C17  C79
+                                                5%-NPO-0402                                                                                        
+   9               1                 08070625   Chip Ceramic Capacitor,6.3V,470nF,+/-                    7  PCS                                    C19  C100 C243 C237 C214 C212 C238
+                                                10%-X5R-0402                                                                                       
+  10               1                 MO1BCU16   ETA6010                                                  2  PCS                                    U16  U26                                                     
+  11               1                 08070627   Chip Multilayer Ceramic Capacitor-50V-100nF-+/-          5  PCS                                    C22  C49  C61  C263 
+                                                10%-X7R-0603                                                                                       C377
+  12               1                 08070439   Chip Multilayer Ceramic Capacitor,2000V,1nF,+/           1  PCS                                    C23
+                                                20%-X7R-1206                                                                                       
+  13               1                 08010269   Chip Aluminum Capacitor,16V,100uF,+/                     4  PCS                                    C28  C58  C64  C66
+                                                +/-20%-6.3*5.4mm-Polarity-                                                                             
+                                                105degC-1000h-                                                                                     
+                                                SMD,Temperature Sensitivity Component,                                                                                
+                                                Peak Temperature 250degC,5s                                                                                  
+  14               1                 08070667   SMD Ceramic Capacitor,6.3V,2200nF,+/                     5  PCS                                    C118 C248 C250 C242
+                                                20%-X5R-0402-TS16949                                                                               C255
+  15               1                 08070953   Chip Multilayer Ceramic Capacitor,6.3V,330nF,+/-         2  PCS                                    C32  C33
+                                                10%-X5R-0402                                                                              
+  16               1                 08070614   Chip Multilayer Ceramic Capacitor,16V,100nF,+/-         17  PCS                                    C41  C44  C46  C51  C53  C59
+                                                10%-X7R-0402-BT                                                                                    C60  C67  C68  C69  C112 C149
+                                                                                                                                                   C150 C153 C154 C158 C159
+  17               1                 08070549   Chip Multilayer Ceramic Capacitor,50V,47pF+/-            2  PCS                                    C54  C55
+                                                5%-NP0-0402                                                                                        
+  18               1                 08070449   Chip Multilayer Ceramic Capacitor,16V,0.01uF+/-          7  PCS                                    C65  C164 C185 C186
+                                                X7R-0402-BT,TS16949                                                                                C270 C328 C330 
+  19               1                 08070573   Chip Multilayer Ceramic Capacitor,10V,2.2uF+/-           5  PCS                                    C71  C72  C350 C351 C391
+                                                10%-X5R-0603                                                                                       
+  20               1                 08070545   Chip Multilayer Ceramic Capacitor,50V,22pF+/-            3  PCS                                    C76  C82  C84
+                                                5%-NP0-0402-BT                                                                                     
+  21               1                 08070450   Chip Multilayer Ceramic Capacitor,50V,100pF+/-           1  PCS                                    C80
+                                                NPO-0402-BT                                                                                        
+  22               1                 08070621   Chip Multilayer Ceramic Capacitor-50V-3.3nF-+/-          1  PCS                                    C83
+                                                10%-X7R-0402-BT                                                                                    
+  23               1                 08070531   Chip Multilayer Ceramic Capacitor-50V-1nF-+/-10%-        4  PCS                                    C140 C313 C314 C339
+                                                X7R-0402-BT                                                                                        
+  24               1                 08070563   Chip Multilayer Ceramic Capacitor-6.3V-2200nF-+/-        2  PCS                                    C275 C283
+                                                10%-X5R-0603-BT                                                                                    
+  25               1                 07090522   Chip Thick Film Resistor-0.0625W-0ohm-                   5  PCS                                    LB17 LB14 LB7  LB21 LB22
+                                                < 50mohm-0603-1A-BT                                                                               
+  26               1                 08070853   Chip Multilayer Ceramic Capacitor-50V-0.68nF-+/-         2  PCS                                    C316 C317
+                                                5%-NP0-0402                                                                                   
+  27               1                 08070604   Chip Multilayer Ceramic Capacitor-50V-0.03nF-+/-         2  PCS                                    C364 C365
+                                                5%-NPO-0402                                                                                        
+  28               1                 15020097   Infrared Remote-Control Receicer-2.7~5.5V-               1  PCS                                    D3
+                                                0.001A-0.015km-38kHz-940nm-                                                                        
+                                                6.95*6.0*5.6mm                                                                            
+  29               1                 15020005   LED Tube-0.006cd-                                        1  PCS                                    D7
+                                                Green/565nm-30mA-D3-                                                                                                                                            
+  30               1                 15010042   Switching Diodes-70V-200mA-1.25V-                        1  PCS                                    D9
+                                                6ns-series-SOT-23-2 FIT                                                                              
+  31               1                 15010252   Silicon schottky diode-10V-3A-0.24V-                     2  PCS                                    D19  D20
+                                                SOD323-BT                                                                                          
+  32               1                 14240410   IO Connector,DC JACK,3PIN,Female-                        1  PCS                                    J1
+                                                3.9/1.3mm Right angle,5V2A                                                                        
+  33               1                 14080105   Network Interface Connector,Single Row,Single Port,4PIN- 2  PCS                                    J2  J12
+                                                4PIN,4Bit,Shielded                                                                                         
+                                                USB A Type Socket,Side Plugging Type,                                                                            
+                                                PIN Tail Length 3.2mm,THT                                                                           
+  34               1                 O1CCR105   26.1K Resistor£¬1%£¬0402                                 1  PCS                                    R105                                                    
+  35               1                 14050028   Ordinary Square Pin,2PIN/Single Row/Straight-            1  PCS                                    J7
+                                                -5.84mm-2.92mm-2.54mm-                                                                                                                                          
+  36               1                 14160120   Audio And Video Connector,RCA Lotus Socket-              1  PCS                                    J8
+                                                2PIN,Angle Female,THT,Red                                                                               
+  37               1                 MO1B0CJ9   WIFI ARS1201X                                            1  PCS                                    J9
+  38               1                 14100167   Common Socket,4PIN,Single Row,Straight-                  1  PCS                                    J18
+                                                1.25mm,2mm,PCB Weld Type,1A                                                                                  
+  39               1                 MO1BCJ21   SD Card socket                                           1  PCS                                    J21
+  40               1                 14080137   Network Interface Connector,Single Row 1-Port,8-Bit8PIN- 1  PCS                                    J25
+                                                Unshielded,Model Socket/Side Plugging Type,                                                                                       
+                                                With hold peg/Pin Tail Length 2.54mm/With LED                                                                        
+  41               1                 14240146   HDMI connector-Female-19pin-                             1  PCS                                    J26
+                                                right angle-SMT with DIP post-without flange                                                                      
+  42               1                 MO1BCJ28   USB3.0 socket                                            1  PCS                                    J28
+  43               1                 MO1BCJ34   Common Connector,RCA                                     1  PCS                                    J34
+  44               1                 12020151   Crystal-24MHz-12pF-                                      1  PCS                                    X2
+                                                ¡À30ppm-50ohm-HCX-3SB-                                                                             
+  45               1                 MO1B0CL2   SWPA4020S3R3MT                                           3  PCS                                    L2  L3  L4
+  46               1                 MO1B0CL5   SWPA5040S6R8MT                                           1  PCS                                    L5
+  47               1                 10031264   Chip Inductor-0.22uH-+/-5%-                              1  PCS                                    L6
+                                                3.77ohm-0.3A-0402                                                                                  
+  48               1                 10070019   EMI beads-+/-25%-1000ohm-                                1  PCS                                    LB12
+                                                0.65ohm-0.2A-402                                                                                   
+  49               1                 10070012   EMI beads-+/-25%-220ohm-                                 2  PCS                                    LB4  LB49
+                                                0.05ohm-2A-0805                                                                                    
+  50               1                 40060446   NAND FLASH-4GB EMMC-52MHz-                               1  PCS                                    U22
+                                                1024KB-3.3V/1.8V-                                                                                  
+                                                FBGA153                                                                                  
+  51               1                 07090836   Chip Thick Film Resistor-0.0625W-                        1  PCS                                    R82
+                                                33ohm-+/-1%-0402                                                                           
+  52               1                 15020190   LED-0.25cd-                                              1  PCS                                    LED1
+                                                Red and Green,625nm/570nm,25mA,DIP,Co-cathode                                                                         
+  53               1                 15050155   NPN transistor -45V-100mA-225mW-                         3  PCS                                    Q1  Q2  Q4
+                                                200mV@100mA-SOT-23-180@2mA                                                                         
+  54               1                 15060134   MOSFET,P Channel--8V--3A-50mohm-                         2  PCS                                    Q13  Q14
+                                                -8V-SOT23                                                                                          
+  55               1                 07090263   Chip Thick Film Resistor-0.1W-                           1  PCS                                    R1
+                                                1000000ohm-+/-5%-0603                                                                              
+  56               1                 07090809   Chip Thick Film Resistor-0.0625W-                        6  PCS                                    R22  R31  R40  R88  R90
+                                                1000ohm-+/-5%-0402-BT                                                                              R91
+  57               1                 07090793   Chip Thick Film Resistor-0.0625W-                        6  PCS                                    R3  R26  R30  R39  R144 R229
+                                                4700ohm-+/-5%-0402-BT                                                                              
+  58               1                 07090831   Chip Thick Film Resistor-0.0625W-                        3  PCS                                    R4  R52  R118
+                                                100000ohm-+/-5%-0402-BT                                                                            
+  59               1                 07091321   Chip Thick Film Resistor-0.0625W-                        3  PCS                                    R5  R9  R178
+                                                75ohm-+/-1%-0402                                                                                   
+  60               1                 07090819   Chip Thick Film Resistor-0.0625W-                       18  PCS                                    R6  R8  R12  R24  R29  R58  R151
+                                                47000ohm-+/-5%-0402-ELOM                                                                           R152 R153 R202 R203 R154 R155
+                                                                                                                                                   R156 R176 R177 R188 R189
+  61               1                 07091384   Chip Thick Film Resistor-0.0625W-                        1  PCS                                    R7
+                                                51000ohm-+/-1%-0402                                                                                
+  62               1                 07090833   Chip Thick Film Resistor-0.0625W-                        1  PCS                                    R10
+                                                150000ohm-+/-1%-0402                                                                               
+  63               1                 07090807   Chip Thick Film Resistor-0.0625W-                        5  PCS                                    R11  R15  R16  R17  R60
+                                                100ohm-+/-5%-0402-BT                                                                               
+  64               1                 07091435   Chip Thick Film Resistor-0.0625W-                        1  PCS                                    R13
+                                                13700ohm-+/-1%-                                                                                    
+                                                1.0mm*0.5mm*0.35mm                                                                        
+  65               1                 07090800   Chip Thick Film Resistor-0.0625W-0ohm-                  15  PCS                                    R14  R18  R35  R36  R37  R93
+                                                < 50mohm-0402-1A-BT                                                                                R95  R112 LB18 LB20 LB31 LB8
+                                                                                                                                                   LB35 LB1  LB11
+  66               1                 07091238   Chip Thick Film Resistor-0.1W-                           2  PCS                                    R19  R20
+                                                75000ohm-+/-1%-0603                                                                                
+  67               1                 07092250   Chip Thick Film Resistor-0.0625W-                        2  PCS                                    R21  R23
+                                                1000ohm-+/-1%-                                                                                     
+                                                0402(1.0*0.5*0.4mm)                                                                             
+  68               1                 07091295   Chip Thick Film Resistor-0.1W-5100ohm-                   2  PCS                                    R27  R28
+                                                +/-1%-0603                                                                                         
+  69               1                 07090817   Chip Thick Film Resistor-0.0625W-                        1  PCS                                    R32
+                                                12000ohm-+/-1%-0402                                                                                
+  70               1                 07090815   Chip Thick Film Resistor-0.0625W-                       11  PCS                                    R41  R42  R56  R96  R98  R113
+                                                10000ohm-+/-5%-0402-BT                                                                             R135 R136 R140 R212 R220
+  71               1                 07090609   Chip Thick Film Resistor-0.0625W-                        4  PCS                                    R43  R44  R85  R87
+                                                270ohm-+/-5%-0402                                                                                  
+  72               1                 07091782   Chip Thick Film Resistor-0.0625W-                        3  PCS                                    R45  R46  R71
+                                                240ohm-+/-1%-0402-BT                                                                               
+  73               1                 07091374   Chip Thick Film Resistor-0.0625W-                        6  PCS                                    R47  R49  R68  R73  R193 R194
+                                                20000ohm-+/-1%-0402-TS16949                                                                        
+  74               1                 07090855   Chip Thick Film Resistor-0.0625W-                        2  PCS                                    R50  R183
+                                                470000ohm-¡À1£¥-0402                                                                               
+  75               1                 07091282   Chip Thick Film Resistor-0.0625W-                        8  PCS                                    R51  R54  R55  R75  R78  R84
+                                                1000ohm-+/-1%-0402-BT                                                                              R103 R107
+  76               1                 07091372   Chip Thick Film Resistor-0.0625W-                        1  PCS                                    R53
+                                                15000ohm-+/-1%-0402-BT                                                                             
+  77               1                 07090730   Chip Thick Film Resistor-0.0625W-                        4  PCS                                    R59  R62  R63  R64
+                                                10ohm-+/-5%-0402                                                                                   
+  78               1                 07110054   Chip Thick Film Resistor-0.0625W-                        1  PCS                                    R61
+                                                200ohm-+/-0.1%-0402-+/-                                                                            
+                                                50ppm/degC                                                                                         
+  79               1                 07091333   Chip Thick Film Resistor-0.0625W-                        4  PCS                                    R2  R34  R67  R79
+                                                330ohm-+/-1%-0402-BT                                                                               
+  80               1                 07090828   Chip Thick Film Resistor-0.0625W-                        1  PCS                                    R70
+                                                33000ohm-+/-5%-0402                                                                                
+  81               1                 07091285   Chip Thick Film Resistor-0.0625W-                        2  PCS                                    R72  R74
+                                                560ohm-+/-5%-0402                                                                                
+  82               1                 07090522   Chip Thick Film Resistor-0.1W-0ohm-                      1  PCS                                    R92
+                                                <50mohm-0603-1A-BT,TS16949                                                                         
+  83               1                 07091537   Chip Thick Film Resistor-0.0625W-                        1  PCS                                    R94
+                                                2200ohm-+/-1%-0402-                                                                        
+  84               1                 07090816   Chip Thick Film Resistor-0.0625W-                        1  PCS                                    R99
+                                                11300ohm-+/-1%-0402                                                                                
+  85               1                 07090867   Chip Thick Film Resistor-0.0625W-                        2  PCS                                    R100 R173
+                                                10000ohm-+/-1%-0402-BT                                                                             
+  86               1                 O1BCR101   Chip Thick Film Resistor-0.0625W-                        2  PCS                                    R101 R110
+                                                14700ohm-+/-1%-0402                                                                                
+  87               1                 07090875   Chip Thick Film Resistor-0.0625W-                        1  PCS                                    R102
+                                                100000ohm-+/-1%-0402                                                                               
+  88               1                 07091275   Chip Thick Film Resistor-0.0625W-                        2  PCS                                    R104 R108
+                                                5600ohm-+/-1%-0402-BT                                                                              
+  89               1                 07090852   Chip Thick Film Resistor-0.0625W-                        1  PCS                                    R268
+                                                27000ohm-+/-5%-0402                                                                                
+  90               1                 07090798   Chip Thick Film Resistor-0.0625W-                        2  PCS                                    R106 R115
+                                                22000ohm-+/-1%-0402                                                                                
+  91               1                 07090002   Chip Thick Film Resistor-0ohm-<50m¦¸-                    1  PCS                                    R109
+                                                1206-2A                                                                                            
+  92               1                 MO1BCU23   HDMI ESD IC CS0806S/ESD5304D                             2  PCS                                    U23  U24
+  93               1                 07090264   Chip Thick Film Resistor-0.1W-10ohm-                     1  PCS                                    R179
+                                                +/-5%-0603-TS16949                                                                                 
+  94               1                 07091354   Chip Thick Film Resistor-0.0625W-                        2  PCS                                    R186 R187
+                                                2000ohm-+/-1%-0402-BT                                                                              
+  95               1                 07090362   Chip Thick Film Resistor-0.125W-75ohm-                   4  PCS                                    R269 R270 R271 R272
+                                                +/-1%-0805                                                                                         
+  96               1                 07080118   Resistor Network-0.0625W-33ohm-4¸ö-                     14  PCS                                    RN1  RN2  RN3  RN4  RN5  RN6
+                                                8PIN-+/-5%-SMT-Individual,Small-                                                                   RN7  RN8  RN9  RN10 RN11 RN12
+                                                2.0*1.0*0.45-0.5mm                                                                                 RN13 RN14
+  97               1                 16100051   Tact switch-SPST-12VDC-0.05A-                            2  PCS                                    S1  S2
+                                                THT-3mm-7.35*7.1*10.5mm-                                                                           
+                                                100,000-side actuator                                                                                     
+  98               1                 16100022   Tact switch-SPST-12VDC-0.05A-                            1  PCS                                    S4
+                                                SMT-0.5mm-5.2*5.2*1.5mm-                                                                          
+                                                1,000,000                                                                                          
+  99               1                 09050085   Lan Transformer-1CT:1CT-0.35mH-                          1  PCS                                    T2
+                                                0uH-1Â·-2-100BASE-T Interface Module-                                                                       
+                                                SMT                                                                                                
+ 100               1                 MO1B0CU1   Hi3798MV100                                              1  PCS                                    U1
+ 101               1                 40020173   DDR3 DRAM-4Gbit-800MHz-                                  2  PCS                                    U3  U6
+                                                16bit-1.5V-FBGA96                                                                            
+ 102               1                 MO1B0CU4   HDMI ESD IC CS0806U/ESD5305F                             1  PCS                                    U4
+ 103               1                 MO1B0CU5   DIO2103                                                  1  PCS                                    U5
+ 104               1                 MO1B0CU9   SPDIF                                                    1  PCS                                    U9
+ 105               1                 MO1BCU11   DC-DC SY8032                                             2  PCS                                    U11  U13
+ 106               1                 39110571   DC-DC MP1484                                             1  PCS                                    U14
+ 107               1                 MO1BCU15   DC-DC SY8089                                             1  PCS                                    U15                                                          
+ 108              1                             HI3798MDMO1B VER.E PCB                                   1  PCS                                                                                                                 
